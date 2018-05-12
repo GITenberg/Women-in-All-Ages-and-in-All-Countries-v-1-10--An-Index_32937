@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36115'
     url: http://www.gutenberg.org/2009/agents/36115
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32937#Women-in-All-Ages-and-in-All-Countries-v-1-10--An-Index
 gutenberg_issued: '2010-06-20'
 gutenberg_type: Text
 identifiers:
